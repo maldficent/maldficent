@@ -6,6 +6,6 @@ I'm a United States Army Veteran turned Software Engineer. While serving as a *F
 - 📚 I’m currently studying Algorithms and Data Structures.
 - ⚛️ Ask me about React!
 - 📫 How to reach me: jose@josemaldonado.dev
-- 📃 [Resume](https://docdro.id/MWzL3H4)
+- 📃 [Resume](https://docdro.id/FXY25qG)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a sneaker enthusiast!
+- ⚡ Fun fact: I'm a huge Marvel fan!
