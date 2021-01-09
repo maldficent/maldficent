@@ -8,6 +8,7 @@
 ![](https://res.cloudinary.com/dmeun2en1/image/upload/v1610207408/Version_control_wlctko.gif)
 
 ### 🤵 About Me:
+- 😄 Pronouns: He/Him
 - 🏦 I'm working as a Software Engineer for BECS Technology, based in St. Louis, MO. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.ts**, **.cpp**, **.py**
