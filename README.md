@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - 🏦 I'm working as a Software Engineer for BECS Technology, based in St. Louis, MO. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.ts**, **.cpp**, **.py**
+- 💻 I use daily: **.ts**, **.cpp**, **.py**
 - 🌱 I’m currently learning React Native
 - 🦸 Talk to me about Marvel
 - 👯 We can connect to practice algorithms and data structures 💡
